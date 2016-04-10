@@ -26,3 +26,6 @@ ExportedObj/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 *.info
+*.asset
+*.meta
+WarTycoon 2D/Library/metadata/
