@@ -91,9 +91,10 @@ namespace Personaje {
 		}
 
 		void Doblar(){
-			Vector3 escala = this.transform.localScale;
-			escala.x *= (-1);
-			this.transform.localScale = escala;
+			//Vector3 escala = this.transform.localScale;
+			//escala.x *= (-1);
+			//this.transform.localScale = escala;
+			this.transform.Rotate(Vector3.up, 180);
 
 		}
 		

@@ -2,9 +2,9 @@ Mono path[0] = 'C:/Users/Christian/Documents/GitHub/WarTycoon/WarTycoon 2D/Build
 Mono path[1] = 'C:/Users/Christian/Documents/GitHub/WarTycoon/WarTycoon 2D/Builds/War0.0_Data/Mono'
 Mono config path = 'C:/Users/Christian/Documents/GitHub/WarTycoon/WarTycoon 2D/Builds/War0.0_Data/Mono/etc'
 PlayerConnection initialized from C:/Users/Christian/Documents/GitHub/WarTycoon/WarTycoon 2D/Builds/War0.0_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55113
-Multi-casting "[IP] 192.168.56.1 [Port] 55113 [Flags] 2 [Guid] 202355777 [EditorId] 2311791677 [Version] 1048832 [Id] WindowsPlayer(Personal) [Debug] 0" to [225.0.0.222:54997]...
-PlayerConnection already initialized - listening to [192.168.56.1:55113]
+PlayerConnection initialized network socket : 0.0.0.0 55163
+Multi-casting "[IP] 192.168.56.1 [Port] 55163 [Flags] 2 [Guid] 3241105220 [EditorId] 2311791677 [Version] 1048832 [Id] WindowsPlayer(Personal) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.56.1:55163]
 Initialize engine version: 5.2.0f3 (e7947df39b5c)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -22,7 +22,7 @@ Loading C:\Users\Christian\Documents\GitHub\WarTycoon\WarTycoon 2D\Builds\War0.0
 Platform assembly: C:\Users\Christian\Documents\GitHub\WarTycoon\WarTycoon 2D\Builds\War0.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Christian\Documents\GitHub\WarTycoon\WarTycoon 2D\Builds\War0.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Christian\Documents\GitHub\WarTycoon\WarTycoon 2D\Builds\War0.0_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.098 seconds
+- Completed reload, in  0.053 seconds
 desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
@@ -30,4 +30,4 @@ XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Initialized touch support.
 Platform assembly: C:\Users\Christian\Documents\GitHub\WarTycoon\WarTycoon 2D\Builds\War0.0_Data\Managed\System.dll (this message is harmless)
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1bdc -> priority: 1 
+  Thread -> id: 288 -> priority: 1 
